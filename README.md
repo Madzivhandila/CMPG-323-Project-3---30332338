@@ -116,6 +116,7 @@ I Hosted web API in the cloud for accessibility:
 *************************************************************************
 1. https://learn.microsoft.com/en-us/training/achievements/learn.oxford.explore-design-brain-patterns.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
 2. https://learn.microsoft.com/en-us/training/achievements/learn.quantum.use-qsharp-libraries.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
+3. https://learn.microsoft.com/en-us/training/achievements/learn-dynamics.solution-architecture-performance.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
 
 *************************************************************************
 
