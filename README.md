@@ -119,6 +119,14 @@ I Hosted web API in the cloud for accessibility:
 3. https://learn.microsoft.com/en-us/training/achievements/learn-dynamics.solution-architecture-performance.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
 
 *************************************************************************
+# Referencing
+*************************************************************************
+1. Design patterns in C# (2020) YouTube. Available at: https://www.youtube.com/watch?v=bzQeMqcgILY&amp;list=PLBEm2Vv2nD-Ppk8U_LaR8wXl47kgCI8Dl&amp;ab_channel=TechWebDots (Accessed: 06 September 2023).
+2. Design patterns available in ASP.NET Core (2023) YouTube. Available at: https://www.youtube.com/watch?v=1NtUwn73EbA&amp;ab_channel=ASP.NETMVC (Accessed: 06 September 2023).
+3. C# design patterns | design pattern tutorial for beginners | C# programming tutorial | Simplilearn (2022) YouTube. Available at: https://www.youtube.com/watch?v=OP1tBC6dBW0&amp;ab_channel=Simplilearn (Accessed: 06 September 2023).
+4. Mediator design pattern (an introduction for .NET developers [.NET 6 and C# 10]) (2022) YouTube. Available at: https://www.youtube.com/watch?v=UrFJUcIXTfc&amp;ab_channel=DotNetCoreCentral (Accessed: 06 September 2023).
+5. [design pattern] mediator design pattern in C# (2022) YouTube. Available at: https://www.youtube.com/watch?v=FDtPLhOpdQ8&amp;list=PLm7xfhMOszqz-CZ6uF6wTNJf4W76aXccA&amp;index=5&amp;ab_channel=EricTech (Accessed: 06 September 2023). 
+
 
 ![nwu](https://github.com/Madzivhandila/CMPG-323-Project-3---30332338/assets/75025282/a0283a1d-34d9-489c-8c44-90bccfc065f6)
 
