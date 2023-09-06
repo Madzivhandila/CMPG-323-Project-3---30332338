@@ -112,7 +112,7 @@ I Hosted web API in the cloud for accessibility:
 
 - **Publish Your App**: Deploy your web application to the service hosted on Azure, ensuring it is secure and accessible.
 
-# Completed Training
+# Completed Training.
 *************************************************************************
 1. https://learn.microsoft.com/en-us/training/achievements/learn.oxford.explore-design-brain-patterns.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
 
