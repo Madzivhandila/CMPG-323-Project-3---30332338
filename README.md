@@ -111,6 +111,12 @@ I Hosted web API in the cloud for accessibility:
 - **Create an App Service**: Set up an App Service, connected to an F1 tier (free) service plan, in your preferred cloud platform (e.g., Azure).
 
 - **Publish Your App**: Deploy your web application to the service hosted on Azure, ensuring it is secure and accessible.
+
+# Completed Training
 *************************************************************************
+1. https://learn.microsoft.com/en-us/training/achievements/learn.oxford.explore-design-brain-patterns.badge?username=TendaniArchiboldMadzivhandila30332-4920&sharingId=DDC01042CCB18A9C
+
+*************************************************************************
+
 ![nwu](https://github.com/Madzivhandila/CMPG-323-Project-3---30332338/assets/75025282/a0283a1d-34d9-489c-8c44-90bccfc065f6)
 
