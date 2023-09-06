@@ -1,7 +1,9 @@
 # CMPG-323-Project-3---30332338
+# Standards & Patterns
+
 ************************************************************************************
 
-Welcome to the CMPG 323 Project 3, where we will guide you through the setup, development process, and best practices for creating a robust web application. This README.md file will serve as your comprehensive guide to ensure you have a smooth and impressive project experience.
+Welcome to the CMPG 323 Project 3, This repository contains an ASP.NET Core MVC Web Application that has been enhanced and improved according to architectural patterns, coding principles, and design patterns. The project focuses on implementing best practices and standards to create a more maintainable and robust application.This README.md file will serve as your comprehensive guide to ensure you have a smooth and impressive project experience.
 
 ## Table of Contents
 ************************************************************************************
