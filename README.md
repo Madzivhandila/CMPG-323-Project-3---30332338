@@ -1,7 +1,7 @@
 # CMPG-323-Project-3---30332338
 ************************************************************************************
 
-Welcome to the CMPG 323 Project 3 Repository, where we will guide you through the setup, development process, and best practices for creating a robust web application. This README.md file will serve as your comprehensive guide to ensure you have a smooth and impressive project experience.
+Welcome to the CMPG 323 Project 3, where we will guide you through the setup, development process, and best practices for creating a robust web application. This README.md file will serve as your comprehensive guide to ensure you have a smooth and impressive project experience.
 
 ## Table of Contents
 ************************************************************************************
@@ -104,7 +104,7 @@ Maintain a high level of security throughout your project:
 
 ### Web API Cloud Hosting
 
-I Hosted web API securely in the cloud for accessibility:
+I Hosted web API in the cloud for accessibility:
 
 - **Create an App Service**: Set up an App Service, connected to an F1 tier (free) service plan, in your preferred cloud platform (e.g., Azure).
 
