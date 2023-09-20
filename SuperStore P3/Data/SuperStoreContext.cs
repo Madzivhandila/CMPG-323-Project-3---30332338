@@ -8,6 +8,8 @@ namespace Data
 {
     public partial class SuperStoreContext : DbContext
     {
+        internal object Service;
+
         public SuperStoreContext()
         {
         }
