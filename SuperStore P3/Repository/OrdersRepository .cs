@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace EcoPower_Logistics.Repository.Models
 {
-    public class Order
+    public class OrderDetails
     {
         public int OrderId { get; set; }
         public string DeliveryAddress { get; set; } = null!;
@@ -25,19 +25,19 @@ namespace EcoPower_Logistics.Repository.Models
 
     public class OrderRepository
     {
-        private List<Order> orders;
+        private List<OrderDetails> orders;
 
         public OrderRepository()
         {
-            orders = new List<Order>();
+            orders = new List<OrderDetails>();
         }
 
-        public void AddOrder(Order order)
+        public void AddOrder(OrderDetails order)
         {
             orders.Add(order);
         }
 
-        public Order GetOrderById(int orderId)
+        public OrderDetails GetOrderById(int orderId)
         {
             var order = orders.FirstOrDefault(o => o.OrderId == orderId);
             if (order == null)
@@ -47,12 +47,12 @@ namespace EcoPower_Logistics.Repository.Models
             return order;
         }
 
-        public List<Order> GetAllOrders()
+        public List<OrderDetails> GetAllOrders()
         {
             return orders;
         }
 
-        public void UpdateOrder(Order order)
+        public void UpdateOrder(OrderDetails order)
         {
             var existingOrder = orders.FirstOrDefault(o => o.OrderId == order.OrderId);
             if (existingOrder != null)
