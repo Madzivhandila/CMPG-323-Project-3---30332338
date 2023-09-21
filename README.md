@@ -128,7 +128,7 @@ I Hosted web API in the cloud for accessibility:
 5. [design pattern] mediator design pattern in C# (2022) YouTube. Available at: https://www.youtube.com/watch?v=FDtPLhOpdQ8&amp;list=PLm7xfhMOszqz-CZ6uF6wTNJf4W76aXccA&amp;index=5&amp;ab_channel=EricTech (Accessed: 06 September 2023).
 
 # API Link 
-https://github.com/users/Madzivhandila/projects/1/views/1
+[https://github.com/users/Madzivhandila/projects/1/views/1](https://ecopowerproject20230831152434.azurewebsites.net/)
 
 
 ![nwu](https://github.com/Madzivhandila/CMPG-323-Project-3---30332338/assets/75025282/a0283a1d-34d9-489c-8c44-90bccfc065f6)
