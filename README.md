@@ -102,7 +102,7 @@ Integrate repository classes into your project for improved data management:
 
 Maintain a high level of security throughout your project:
 
-- **No Credentials on GitHub**: Ensure that no credentials, such as API keys or sensitive information, are stored on GitHub. Always use environment variables or other secure methods for storing sensitive data.
+- **I keep my repository private so no one can acess my things beside my colaborate**: Ensure that no credentials, such as API keys or sensitive information, are stored on GitHub. Always use environment variables or other secure methods for storing sensitive data.
 
 ### Web API Cloud Hosting
 
