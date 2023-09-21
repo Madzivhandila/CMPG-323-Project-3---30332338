@@ -131,6 +131,9 @@ I Hosted web API in the cloud for accessibility:
 
 https://ecopowerproject20230831152434.azurewebsites.net/
 
+Log in Details: 30332338@nwu.ac
+password: Archie@2023
+
 
 ![nwu](https://github.com/Madzivhandila/CMPG-323-Project-3---30332338/assets/75025282/a0283a1d-34d9-489c-8c44-90bccfc065f6)
 
